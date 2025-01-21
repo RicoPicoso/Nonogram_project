@@ -1,0 +1,25 @@
+[33mcommit 0e45a663ff3b2ac3b81e1dcfb49766a1e8472b15[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 30862f8 9897a05
+Author: Michael <michael.dokychuk@qaracter.com>
+Date:   Tue Jan 21 10:20:17 2025 +0000
+
+    Merge branch 'main' of https://github.com/RicoPicoso/Nonogram_project
+    resolve merge conflicts
+
+[33mcommit 30862f83e608caeb79a5b6ce5ee94696fbc61d6e[m
+Author: Michael <michael.dokychuk@qaracter.com>
+Date:   Tue Jan 21 09:20:21 2025 +0000
+
+    Initial commit
+
+[33mcommit 5975d0d54057a4ed2b70215e5a13451ba11b5bc5[m
+Author: Michael <michael.dokychuk@qaracter.com>
+Date:   Tue Jan 21 09:57:55 2025 +0000
+
+    Commit for setting up enviroment
+
+[33mcommit 9897a05200e41f73246be6f787065c4c270b7c83[m
+Author: RicoPicoso <115493308+RicoPicoso@users.noreply.github.com>
+Date:   Tue Jan 21 09:20:21 2025 +0000
+
+    Initial commit
